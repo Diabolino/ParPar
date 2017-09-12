@@ -176,7 +176,6 @@ extern int gf_init_hard(GFP gf,
                         int arg2,
                         size_t size_hint,
                         unsigned int thCount_hint,
-                        int wordsize,
                         GFP base_gf,
                         void *scratch_memory);
 
